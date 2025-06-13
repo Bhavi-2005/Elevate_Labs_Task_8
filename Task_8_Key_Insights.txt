@@ -1,0 +1,19 @@
+
+Key Takeaways from Sales Dashboard
+
+1. Sales by Region
+- East region recorded the highest sales with $264,974, closely followed by the West region with $251,992.
+- Central and South regions significantly lagged behind, with the South being the lowest at $148,772.
+
+2. Sales by Category
+- Furniture and Technology contributed almost equally to overall sales (around $252K each).
+- Office Supplies had the lowest sales among the three categories, with $220,853.
+
+3. Monthly Sales Trend
+- There is a sharp peak in sales at the beginning of the timeline (likely due to a single high-value transaction or a cumulative error — note the 'Null' month).
+- After January, sales drop significantly and remain consistently low throughout the year.
+- The trend suggests either seasonality, data entry issues, or a one-time campaign effect.
+
+4. Category Filter Impact
+- The Category filter allows focused analysis on specific product categories across regions and time.
+- For example, selecting Technology instantly updates other visuals to reflect its distribution in each region and time period.
